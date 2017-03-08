@@ -42,15 +42,18 @@ permalink: /research/
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=nCh4qyMAAAAJ) profile.
 
+* [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041),
+  Esteban&nbsp;Real, Sherry&nbsp;Moore, Andrew&nbsp;Selle, Saurabh&nbsp;Saxena,
+  Yutaka&nbsp;Leon&nbsp;Suematsu, Quoc&nbsp;Le, **Alexey&nbsp;Kurakin**, 2017
 * [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236),
-  Alexey Kurakin, Ian Goodfellow, Samy Bengio, 2016
+  **Alexey&nbsp;Kurakin**, Ian&nbsp;Goodfellow, Samy&nbsp;Bengio, Accepted to ICLR2017
 * [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533),
-  Alexey Kurakin, Ian Goodfellow, Samy Bengio, 2016
+  **Alexey&nbsp;Kurakin**, Ian&nbsp;Goodfellow, Samy&nbsp;Bengio, Accepted to ICLR2017&nbsp;Workshop
 * [A real time system for dynamic hand gesture recognition with a depth sensor](/public/papers/2012-GestureRecognitionMSR.pdf),
-  Alexey Kurakin, Zhengyou Zhang, Zicheng Liu, EUSIPCO 2012
+  **Alexey&nbsp;Kurakin**, Zhengyou&nbsp;Zhang, Zicheng&nbsp;Liu, EUSIPCO 2012
 * [Hand geometry analysis by continuous skeletons](/public/papers/2011-HandGeometry.pdf),
-  Leonid Mestetskiy, Irina Bakina, Alexey Kurakin, ICIAR 2011
+  Leonid&nbsp;Mestetskiy, Irina&nbsp;Bakina, **Alexey&nbsp;Kurakin**, ICIAR 2011
 * [Hand gesture recognition through on-line skeletonization](/public/papers/2011-HandGestures.pdf),
-  Alexey Kurakin, Leonid Mestetskiy, VISAPP 2011
+  **Alexey&nbsp;Kurakin**, Leonid&nbsp;Mestetskiy, VISAPP 2011
 * [Support Vector Machines for Ranking Learning: The Full and the Truncated Fixed Margin Strategies](/public/papers/2007-OrdinalRegr.pdf),
-  Alexander Tatarchuk, Alexey Kurakin, Vadim Mottl, ICMLC 2007
+  Alexander&nbsp;Tatarchuk, **Alexey&nbsp;Kurakin**, Vadim&nbsp;Mottl, ICMLC 2007
