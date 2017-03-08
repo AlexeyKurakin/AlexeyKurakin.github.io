@@ -6,8 +6,9 @@ title: About
 # Alexey Kurakin
 
 <img src="/public/photo.jpg" align="right" />
-I'm Research Software Engineer in [Google Brain](http://g.co/brain).
+I'm Research Software Engineer in
+[Google Brain](http://g.co/brain){:target="_blank"}.
 
 You can read more about my [research work](/research),
 and find publications in my
-[Google Scholar profile](https://scholar.google.com/citations?user=nCh4qyMAAAAJ).
+[Google Scholar profile](https://scholar.google.com/citations?user=nCh4qyMAAAAJ){:target="_blank"}.
